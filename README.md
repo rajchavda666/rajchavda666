@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a raj as Passionate Developer!
+# 👋 Hi, I'm a raj.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
